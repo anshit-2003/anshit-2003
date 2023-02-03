@@ -7,7 +7,7 @@
 - :muscle: Sophmore Pursuing Bachelor's in Computer Science & Design.
 - :gift_heart: I love developing for the web.
 - :coffee: Coffee lover, turning it into code.
-- :dart: Wasting my time to save other people's time.
+- :dart: Java is to JavaScript what car is to Carpet.
 
 
 ### 🥇 GitHub Stats:
