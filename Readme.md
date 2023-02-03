@@ -11,7 +11,7 @@
 
 
 ### 🥇 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anshit-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anshit-2003&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 **Some of the languages I have used**
 
