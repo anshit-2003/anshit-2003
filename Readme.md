@@ -1,8 +1,8 @@
-### Hi there 👋 
+### Hi! there 👋 
   My name is 
  Anshit Bakshi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=You+want+to+change+your+life%3F+;Change+the+way+you+think.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.;Loves+Open+Source.)](https://git.io/typing-svg)
 
 - :muscle: Sophmore Pursuing Bachelor's in Computer Science & Design.
 - :gift_heart: I love developing for the web.
