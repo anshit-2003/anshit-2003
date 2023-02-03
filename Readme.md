@@ -1,6 +1,6 @@
 ### Hi there 👋 
   My name is 
- Anshit Baskhi!
+ Anshit Bakshi!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=You+want+to+change+your+life%3F+;Change+the+way+you+think.)](https://git.io/typing-svg)
 
