@@ -9,6 +9,12 @@
 - :coffee: Coffee lover, turning it into code.
 - :dart: Wasting my time to save other people's time.
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anshit-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=anshit-2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 **Some of the languages I have used**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
