@@ -10,10 +10,8 @@
 - :dart: Wasting my time to save other people's time.
 
 
-# 📊 GitHub Stats:
+### 🥇 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshit-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anshit-2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anshit-2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 **Some of the languages I have used**
 
