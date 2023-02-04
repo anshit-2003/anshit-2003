@@ -13,7 +13,7 @@
 ### 🥇 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anshit-2003&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-**Some of the languages I have used**
+**Some of the languages I have used:**
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
@@ -23,7 +23,7 @@
 ![dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 
-**Some of the technologies I have worked with**
+**Some of the technologies I have worked with:**
 <!--icons from Simple Icons-->
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![mysql](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=F05032)
