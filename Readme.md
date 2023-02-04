@@ -34,7 +34,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 ![git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=4584b6)
 
 Contact with me: <br>
 <br>
