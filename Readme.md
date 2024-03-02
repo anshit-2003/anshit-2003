@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Developer+for+the+Web.;Loves+to+Design+Creative+Solutions.;Loves+Open+Source.)](https://git.io/typing-svg)
 
-- :muscle: Sophmore Pursuing Bachelor's in Computer Science & Design.
+- :muscle: Pre final year student Pursuing Bachelor's in Computer Science & Design.
 - :gift_heart: I love developing for the web.
 - :coffee: Coffee lover, turning it into code.
 - :dart: Java is to JavaScript what car is to Carpet.
